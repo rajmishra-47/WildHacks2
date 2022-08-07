@@ -1,0 +1,26 @@
+.f1{
+    margin-top: 5em;
+    display: flex;
+    flex-direction: row;
+
+    padding: 10px;
+   }
+
+  .f2{
+    height:auto;
+    width: auto;
+    margin: 10px;
+    border-radius: 30px;
+    background-color: rgba(214, 25, 25);
+    padding: 20px; 
+    color: aliceblue;  
+}
+
+img{
+    border-radius: 30px;
+}
+
+.f3{
+    margin: 10px;
+}
+
